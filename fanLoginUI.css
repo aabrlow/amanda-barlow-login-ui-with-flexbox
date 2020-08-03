@@ -1,0 +1,25 @@
+body {
+    background: url(https://miro.medium.com/max/3200/1*mjciht9v7GjxTI-2fxGFWg.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.login {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px slategrey;
+    color: black;
+    padding: 20px;
+    text-transform: uppercase;
+    width: 400px;
+}
+
+h3 {
+    text-align: center;
+    padding: 15px;
+}

@@ -1,0 +1,68 @@
+html {
+    background: url(https://www.santacruzsentinel.com/wp-content/uploads/migration/2017/201703/FEATURES_170309990_AR_0_XLJDMXDRWCWL.jpg?w=1024&h=670);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+a:visited {
+    color: white;
+}
+
+button {
+    border: none;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding: 9px;
+    width: 90%;
+}
+
+hr {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+input {
+    background-color: rgba(7, 7, 7, 0.829);
+    border: none;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 95%;
+}
+
+input::placeholder {
+    color:rgb(247, 248, 248);
+    font-weight: bold;
+}
+
+.login {
+    background-color: rgba(151, 152, 156, 0.932);
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px rgba(238, 235, 235, 0.822);
+    color:rgb(204, 206, 207);
+    padding: 25px;
+    text-transform: uppercase;
+    width: 400px;
+}
+
+
+p  {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(247, 244, 244);
+}
+
+.title {
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px rgb(248, 247, 247);
+    padding: 20px;
+}
